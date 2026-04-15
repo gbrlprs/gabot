@@ -465,7 +465,7 @@ async function main(): Promise<void> {
   await postCycle();
 
   // Then every 15 minutes: cron format is  second minute hour day month weekday
-  const job = new CronJob('0 */15 * * * *', postCycle, null, true, 'UTC');
+  const job = new CronJob('0 */30 * * * *', postCycle, null, true, 'UTC');
   job.start();
 
   console.log('[bot] Scheduled — posting every 15 minutes. Running...');
