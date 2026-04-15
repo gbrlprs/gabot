@@ -241,7 +241,7 @@ const POSTS: string[] = [
   "some access is conditional.",
   "not everything translates.",
   "coherence can be fragile.",
-  "not all understanding is stable."
+  "not all understanding is stable.",
 
   // dark deep cold
 
