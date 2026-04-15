@@ -320,7 +320,7 @@ const POSTS: string[] = [
   "I don't trust my ability to stay consistent over time.",
   "there are parts of me that don't integrate.",
   "I don't know if I'm improving or just becoming more legible.",
-  "some clarity feels like it doesn't belong to me."
+  "some clarity feels like it doesn't belong to me.",
   "I don't know if I changed or if the reference point did.",
   "some parts of me feel inaccessible, not absent.",
   "I don't trust the feeling of certainty when it appears.",
